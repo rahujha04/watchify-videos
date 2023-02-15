@@ -1,4 +1,4 @@
-![watchify-videos](https://watchify-videos.netlify.app/)
+[watchify-videos](https://watchify-videos.netlify.app/)
 ## Description
 
 Watchify is a video-watching app which is a modern Youtube clone website in React JS with Material UI 5 and fetches APIs from RapidAPI using Axios. It is hosted on Netlify.
